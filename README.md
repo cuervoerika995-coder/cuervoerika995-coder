@@ -55,9 +55,10 @@ Actualmente estoy fortaleciendo mis conocimientos en pruebas de APIs, bases de d
 ---
 
 ## 📫 Contacto
+<a href="https://www.linkedin.com/in/erika-tatiana-cuervo-rodriguez-a00a7734b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+📧 [cuervoerika995@gmail.com](mailto:tuemail@email.com).
 
-📧 [cuervoerika995@gmail.com](mailto:tuemail@email.com)
-💼 LinkedIn:https://www.linkedin.com/in/erika-tatiana-cuervo-rodriguez-a00a7734b/
+ 
 
 ---
 
