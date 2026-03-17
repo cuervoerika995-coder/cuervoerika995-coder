@@ -39,9 +39,17 @@
 * 🔗 API Testing con Postman
   Colecciones de pruebas para validar endpoints, status code y tiempos de respuesta
 
-* 🔗 Casos de prueba
-  Documentación de escenarios de prueba
+* 🔗 🔹 Urban Grocers (Aplicación web de comercio electrónico)
 
+📌 Descripción: Plataforma web que permite a los usuarios realizar compras en línea, gestionar pedidos y validar el flujo completo de compra.
+
+🛠 Tecnologías utilizadas: Pruebas manuales, Postman, Chrome DevTools, SQL.
+
+🔍 Contribución:
+- Ejecuté múltiples casos de prueba en funcionalidades críticas como autenticación y compras.
+- Validé servicios API asegurando respuestas correctas y manejo de errores.
+- Reporté bugs detallados mejorando la experiencia del usuario.
+- Verifiqué datos mediante consultas SQL para asegurar integridad de la información.
 * 🔗 Reporte de bugs
   Ejemplos de errores encontrados y cómo reportarlos
 
