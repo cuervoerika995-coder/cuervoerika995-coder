@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👩‍💻 Hola, soy Erika
 
-<!--
-**cuervoerika995-coder/cuervoerika995-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 QA Enginner
+📍 Colombia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Sobre mí
+
+Actualmente he concluido satisfactoriamente el bootcamp en Quality Assurance Engineering de Tripleten.
+Me enfoco en encontrar errores, mejorar procesos y aprender cada día más sobre testing.
+Estoy en transición del mundo de la contabilidad al sector TI, impulsado por mi interés en la tecnología y la mejora de procesos a través del software.
+Actualmente estoy fortaleciendo mis conocimientos en pruebas de APIs, bases de datos y herramientas de testing.
+
+---
+
+## 🧪 Habilidades
+
+* ✅ Pruebas manuales
+* ✅ Testing de APIs con Postman
+* ✅ Consultas SQL (básico - intermedio)
+* ✅ Reporte de bugs
+* ✅ Análisis de requerimientos
+
+---
+
+## 🛠️ Herramientas
+
+* Postman
+* Git & GitHub
+* SQL
+* Jira (básico)
+
+---
+
+## 📂 Proyectos de testing
+
+📌 Aquí puedes agregar tus proyectos (muy importante)
+
+* 🔗 API Testing con Postman
+  Colecciones de pruebas para validar endpoints, status code y tiempos de respuesta
+
+* 🔗 Casos de prueba
+  Documentación de escenarios de prueba
+
+* 🔗 Reporte de bugs
+  Ejemplos de errores encontrados y cómo reportarlos
+
+---
+
+## 📈 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO\&show_icons=true)
+
+---
+
+## 📫 Contacto
+
+📧 [cuervoerika995@gmail.com](mailto:tuemail@email.com)
+💼 LinkedIn:https://www.linkedin.com/in/erika-tatiana-cuervo-rodriguez-a00a7734b/
+
+---
+
+✨ Siempre aprendiendo y mejorando en el mundo del testing
