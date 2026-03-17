@@ -21,7 +21,7 @@
 * ✅ Reporte de bugs
 * ✅ Análisis de requerimientos
 
----Formacion en el bootcamp en Quality Assurance Engeniering de tripleten
+---
 
 ## 🛠️ Herramientas
 
