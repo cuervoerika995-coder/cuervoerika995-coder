@@ -1,28 +1,27 @@
 # 👩‍💻 Hola, soy Erika
 
-🧪 QA Enginner
+🧪 QA Enginner enfocada en la calidad del software y la mejora continua de los procesos de prueba.
+
 📍 Colombia
 
 ---
 
-## 🔍 Sobre mí
+## 💻 Sobre mí
 
-Actualmente he concluido satisfactoriamente el bootcamp en Quality Assurance Engineering de Tripleten.
-Me enfoco en encontrar errores, mejorar procesos y aprender cada día más sobre testing.
-Estoy en transición del mundo de la contabilidad al sector TI, impulsado por mi interés en la tecnología y la mejora de procesos a través del software.
-Actualmente estoy fortaleciendo mis conocimientos en pruebas de APIs, bases de datos y herramientas de testing.
-
+- 📚 Formación en el bootcamp en Quality Assurance Engineering de Tripleten  
+- 💡 Interesada en el área de testing y en asegurar que las aplicaciones cumplan con los requisitos funcionales  
+- 🧩 Desarrollo habilidades en pruebas manuales, testing de APIs y consultas en bases de datos  
 ---
 
 ## 🧪 Habilidades
 
-* ✅ Pruebas manuales
+* ✅ Pruebas manuales 
 * ✅ Testing de APIs con Postman
 * ✅ Consultas SQL (básico - intermedio)
 * ✅ Reporte de bugs
 * ✅ Análisis de requerimientos
 
----
+---Formacion en el bootcamp en Quality Assurance Engeniering de tripleten
 
 ## 🛠️ Herramientas
 
