@@ -1,6 +1,6 @@
 # 👩‍💻 Hola, soy Erika
 
-🧪 QA Enginner enfocada en la calidad del software y la mejora continua de los procesos de prueba.
+🧪 QA Engineer enfocada en la calidad del software y la mejora continua de los procesos de prueba.
 
 📍 Colombia
 
