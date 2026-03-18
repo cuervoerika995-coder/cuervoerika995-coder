@@ -29,7 +29,7 @@ Postman, JIRA, Google Sheets, GitHub, Python (básico), requests.
 
 
 
-* 🔗 🔹 Urban Grocers - API Testing
+* 🔗 🔹 Urban Grocers - API Testing - Bootcamp Tripleten
 
 [![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-Google%20Sheets-34A853?logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1cOvvy2xxj-66N0Iu18w0ObqgarlHp01k/edit?gid=376647849#gid=376647849)
 
@@ -48,7 +48,7 @@ Postman, JIRA, Google Sheets, GitHub, Python (básico), requests.
 - Detecté inconsistencias en validaciones de API (ej: aceptación de valores fuera de límite esperado).
 - Documenté defectos con evidencia y pasos de reproducción en JIRA.
 ---
- 🔹 🔗 Urban Lunch (Aplicación móvil )
+ 🔹 🔗 Urban Lunch (Aplicación móvil ) - Bootcamp Tripleten
 
 [![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-Google%20Sheets-34A853?logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1cyDZ1TmCOfGNj9ElTIRqq3VRFkaDW2To/edit?gid=374552301#gid=374552301)
 
