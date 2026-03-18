@@ -13,22 +13,15 @@
 - 🧩 Desarrollo habilidades en pruebas manuales, testing de APIs y consultas en bases de datos  
 ---
 
-## 🧪 Habilidades
+🛠 Tecnologías y herramientas:  
+Postman, JIRA, Google Sheets, GitHub, Python (básico), requests.
 
-* ✅ Pruebas manuales 
-* ✅ Testing de APIs con Postman
-* ✅ Consultas SQL (básico - intermedio)
-* ✅ Reporte de bugs
-* ✅ Análisis de requerimientos
-
----
-
-## 🛠️ Herramientas
-
-* Postman
-* Git & GitHub
-* SQL
-* Jira (básico)
+🔍 Habilidades:
+- Pruebas manuales y automatizadas de API
+- Diseño de casos de prueba (positivos, negativos y valores límite)
+- Validación de lógica de negocio
+- Automatización básica con Python (requests, assertions)
+- Reporte y seguimiento de bugs en JIRA
 
 ---
 
