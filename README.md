@@ -72,7 +72,7 @@ Postman, JIRA, Google Sheets, GitHub, Python (básico), requests.
 
 📌 Descripción: Plataforma web que permite a los usuarios realizar compras en línea, gestionar pedidos y validar el flujo completo de compra.
 
-🛠 Tecnologías utilizadas: Pruebas manuales, Postman, Chrome DevTools, SQL.
+🛠 Tecnologías utilizadas: Pruebas manuales, Postman, Chrome DevTools, SQL, Python, Pytest.
 
 🔍 Contribución:
 - Ejecuté múltiples casos de prueba en funcionalidades críticas como autenticación y compras.
@@ -86,7 +86,7 @@ Postman, JIRA, Google Sheets, GitHub, Python (básico), requests.
 
 📌 Descripción: Plataforma web que permite a los usuarios reservar servicios de transporte, gestionar pagos y visualizar historial de viajes.
 
-🛠 Tecnologías utilizadas: Pruebas manuales, Chrome DevTools, JIRA, SQL.
+🛠 Tecnologías utilizadas: Pruebas manuales, Chrome DevTools, JIRA, SQL, Python, Selenium WebDriver, Pytest.
 
 🔍 Contribución:
 - Ejecuté casos de prueba en funcionalidades clave como registro, login y reservas.
