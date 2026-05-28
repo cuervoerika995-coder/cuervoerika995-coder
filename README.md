@@ -38,10 +38,10 @@ Postman, JIRA, Google Sheets, GitHub, Python (básico), requests.
 🛠 Tecnologías utilizadas: Postman, Pruebas de API, JSON, JIRA.
 
 🔍 Contribución:
--Probé funcionalidades de la API utilizando Postman, diseñando listas de verificación para pruebas positivas y negativas.
--Documenté defectos críticos en JIRA, contribuyendo a una mejora del 25% en la estabilidad del sistema.
--Analicé los requisitos del back-end en Apidoc.
--Analicé la documentación y diseñé las pruebas de la API. 
+-Probé funcionalidades de la API utilizando Postman, diseñando listas de verificación para pruebas positivas y negativas. 
+-Documenté defectos críticos en JIRA, contribuyendo a una mejora del 25% en la estabilidad del sistema. 
+-Analicé los requisitos del back-end en Apidoc. 
+-Analicé la documentación y diseñé las pruebas de la API.  
 ---
  🔹 🔗 Urban Lunch (Aplicación móvil ) - Bootcamp Tripleten
 
