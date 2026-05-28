@@ -38,15 +38,10 @@ Postman, JIRA, Google Sheets, GitHub, Python (básico), requests.
 🛠 Tecnologías utilizadas: Postman, Pruebas de API, JSON, JIRA.
 
 🔍 Contribución:
-- Diseñé y ejecuté más de 60 casos de prueba para endpoints críticos como:
-  - `/api/v1/kits/:id/products`
-  - `/order-and-go/v1/delivery`
-- Validé reglas de negocio complejas como:
-  - Límites de productos por kit (máximo permitido)
-  - Cálculo de costos de entrega según horario, peso y cantidad de productos
-- Realicé pruebas positivas y negativas (status 200, 400) para asegurar el correcto manejo de errores.
-- Detecté inconsistencias en validaciones de API (ej: aceptación de valores fuera de límite esperado).
-- Documenté defectos con evidencia y pasos de reproducción en JIRA.
+-Probé funcionalidades de la API utilizando Postman, diseñando listas de verificación para pruebas positivas y negativas.
+-Documenté defectos críticos en JIRA, contribuyendo a una mejora del 25% en la estabilidad del sistema.
+-Analicé los requisitos del back-end en Apidoc.
+-Analicé la documentación y diseñé las pruebas de la API. 
 ---
  🔹 🔗 Urban Lunch (Aplicación móvil ) - Bootcamp Tripleten
 
@@ -86,7 +81,7 @@ Postman, JIRA, Google Sheets, GitHub, Python (básico), requests.
 
 📌 Descripción: Plataforma web que permite a los usuarios reservar servicios de transporte, gestionar pagos y visualizar historial de viajes.
 
-🛠 Tecnologías utilizadas: Pruebas manuales, Chrome DevTools, JIRA, SQL, Python, Selenium WebDriver, Pytest.
+🛠 Tecnologías utilizadas: Pruebas automatizas UI, Chrome DevTools, JIRA, SQL, Python, Selenium WebDriver, Pytest.
 
 🔍 Contribución:
 - Ejecuté casos de prueba en funcionalidades clave como registro, login y reservas.
